@@ -113,6 +113,3 @@ def crawl(url, limit=None):
                 break
 
     return sitemap
-
-if __name__ == "__main__":
-    pprint.pprint(crawl("http://wiprodigital.com", limit=1))
