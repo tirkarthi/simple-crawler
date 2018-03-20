@@ -1,4 +1,4 @@
-# Crawler
+# Crawler [![Build Status](https://travis-ci.org/tirkarthi/simple-crawler.svg?branch=master)](https://travis-ci.org/tirkarthi/simple-crawler)
 
 A simple crawler that classifies the links in the page.
 
